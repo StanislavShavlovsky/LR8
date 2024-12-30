@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ProductsProject.dir/main.c.o CMakeFiles/ProductsProject.dir/functions.c.o CMakeFiles/ProductsProject.dir/elastic_search.c.o -o ProductsProject  /usr/lib/x86_64-linux-gnu/libcurl.so -ljson-c 
